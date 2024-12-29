@@ -1,2 +1,2 @@
 # practice_c
-# Learn C the hard way practice.
+# Learn C the hard way
